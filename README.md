@@ -5,7 +5,7 @@
 
 
 #### 1. Mathematical foundations of reinforcement learning
-- \([Notebook](/1.MDP_implementation.ipynb)\)
+- \([Notebook](https://github.com/karthikraja95/Deep-RL/blob/master/1.MDP_Implementation.ipynb)
   - Implementations of several MDPs: 
     - Bandit Walk
     - Bandit Slippery Walk
