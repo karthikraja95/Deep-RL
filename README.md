@@ -23,4 +23,4 @@ I frequently update this repository.
 
 GDRL book by Miguel Morales is a beautifully balanced approach to teaching, offering numerous large and small examples, annotated diagrams and code, engaging exercises, and skillfully crafted writing. 
 
--\ ([GDRL Book](https://www.manning.com/books/grokking-deep-reinforcement-learning))
+- \([GDRL Book](https://www.manning.com/books/grokking-deep-reinforcement-learning))
