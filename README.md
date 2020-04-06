@@ -7,7 +7,7 @@ I frequently update this repository.
 
 
 
-#### 1. Mathematical foundations of reinforcement learning
+#### 1. Build Reinforcement Learning Environments
 - \([Notebook](https://github.com/karthikraja95/Deep-RL/blob/master/1.MDP_Implementation.ipynb))
   - Implementations of several MDPs: 
     - Bandit Walk
