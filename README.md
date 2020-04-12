@@ -17,12 +17,13 @@ I frequently update this repository.
     - Russell and Norvig's Gridworld from AIMA
     - FrozenLake
     - FrozenLake8x8
-#### 2. Policy Evaluation, Policy Improvement and Policy Iteration
+#### 2. Policy Evaluation, Policy Improvement, Policy Iteration and Value Iteration
 - \([Notebook](https://github.com/karthikraja95/Deep-RL/blob/master/2.Policy-Iteration.ipynb))
   - Frozen Lake Environment (Gym)
     - Policy Evaluation
     - Policy Improvement
     - Policy Iteration
+    - Value Iteration
 
 ##### Reference
 
