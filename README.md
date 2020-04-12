@@ -18,8 +18,9 @@ I frequently update this repository.
     - FrozenLake
     - FrozenLake8x8
 #### 2. Policy Evaluation, Policy Improvement, Policy Iteration and Value Iteration
-- \([Notebook](https://github.com/karthikraja95/Deep-RL/blob/master/2.Policy-Iteration.ipynb))
+- \([Notebook](https://github.com/karthikraja95/Deep-RL/blob/master/2.Generalized-Policy-Iteration.ipynb))
   - Frozen Lake Environment (Gym)
+  - Generalized Policy Iteration
     - Policy Evaluation
     - Policy Improvement
     - Policy Iteration
